@@ -1,14 +1,11 @@
 # SQL task
-- run `dump.sql` in your database.
-- Solve this task:
-> Retrieve the first and last names of all employees in the "Sales" department.
-> 
-> Find the average salary of all employees.
-> 
-> List the employees who earn more than the average salary.
-> 
-> Count the number of employees in each department.
-> 
-> Calculate the total salary budget for each department (sum of salaries for all employees in the department).
 
-- Check your answers with [correct](./answers.md).
+1) First task
+- run `dumps/dump1.sql` in your database.
+- solve the task
+
+2) Second task
+- run `dumps/dump2.sql` in your database.
+- solve the task:
+
+> Write an SQL query to retrieve a list of books along with their titles and the names of their respective authors, where the author's nationality is 'British'. Your result should include the book title and the author's name.
